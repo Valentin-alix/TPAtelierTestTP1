@@ -2,7 +2,7 @@ package com.example.TP1Test.Controleur;
 
 import org.springframework.stereotype.Controller;
 
-import com.example.TP1Test.jpaaccess.Product;
+import com.example.TP1Test.Entities.Product;
 
 @Controller
 public class ControlProduct {
